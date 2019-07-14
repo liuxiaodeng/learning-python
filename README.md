@@ -4,4 +4,5 @@ Python 自学教程：源自自学时的总结，因为对Python有所兴趣，�
 
 因为我本人是一名Web前端开发者，并非从事Python相关工作，学Python完全是出于兴趣。
 
-
+#### [1. Mac安装Python3.7](https://github.com/liuxiaodeng/learning-python/issues/1)
+#### [2. Mac安装pycharm并配置autopep8](https://github.com/liuxiaodeng/learning-python/issues/2)
